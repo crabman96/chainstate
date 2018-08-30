@@ -1,2 +1,2 @@
 # chainstate
-chainstate parched
+12.0
